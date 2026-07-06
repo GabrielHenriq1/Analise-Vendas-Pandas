@@ -1,5 +1,3 @@
-# Analise-Vendas-Pandas
-
 # Análise de Vendas com Pandas
 
 Esse é um projeto que fiz pra praticar pandas depois de terminar o curso de Pandas do Teo Me Why.  
